@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="CommonAttribute.tss_bb_Разделитель" id="396e506d-053e-4862-af8b-050df8c9b766" configVersion="65339ec19b472b4d937feb990ba167ab00000000"/>
+		<Metadata name="Configuration.ЭталоннаяБаза" id="970d0a83-cb78-4ee8-8b69-82a4830f8439" configVersion="fe90daa7fdd4b54395b0e0647a56986800000000"/>
+		<Metadata name="Constant.tss_bb_ВключитьПодсистему" id="7154e5f9-9580-47f1-bda4-eeafe5bc123e" configVersion="80fe4f6f30637a469ca301afc774d95d00000000"/>
+		<Metadata name="DataProcessor.tss_bb_Настройки" id="f0ba44fc-4d14-42b9-94c2-389953a69acd" configVersion="40a1ce767a2a474d9af70b64c252585e00000000"/>
+		<Metadata name="FunctionalOption.tss_bb_ПодсистемаЭБ" id="203dacf4-3dd1-4485-bb0f-a24d350dce95" configVersion="0357017dd736fc4fb1837c3ab7248e6400000000"/>
+		<Metadata name="Language.Русский" id="63d858bc-1565-4efa-ba89-326d91b8e4fa" configVersion="ec4448fd9a7c294a9a94d200754e6b8900000000"/>
+		<Metadata name="Role.tss_bb_ПолныеПрава" id="6fc9f66d-10d1-4a8a-91ad-4f6871a142ad" configVersion="82cc23e4d7449043a1ce2faad4122b5000000000"/>
+		<Metadata name="Role.tss_bb_ПолныеПрава.Rights" id="6fc9f66d-10d1-4a8a-91ad-4f6871a142ad.0" configVersion="00066b01858c8d41ab9672141dd48e2d00000000"/>
+		<Metadata name="SessionParameter.tss_bb_РазделительЗначение" id="2ae38ccb-cc38-4829-8f2a-217c3967a2f9" configVersion="6943db085e13914081a67131caf77be400000000"/>
+		<Metadata name="SessionParameter.tss_bb_РазделительИспользование" id="b6a1d3fa-07e4-4696-97b3-ba39fa38b436" configVersion="c044a3632b4024488907635139c3c9e000000000"/>
+		<Metadata name="Subsystem.tss_bb_НастройкиДляТестирования" id="43fa6877-0504-47d2-8df9-89e89228a525" configVersion="1d9569893a89424ca4e791a8f26c19c300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

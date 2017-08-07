@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Rights xmlns="http://v8.1c.ru/8.2/roles" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Rights" version="2.4">
+	<setForNewObjects>true</setForNewObjects>
+	<setForAttributesByDefault>true</setForAttributesByDefault>
+	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
+	<object>
+		<name>SessionParameter.tss_bb_РазделительЗначение</name>
+		<right>
+			<name>Get</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Set</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>CommonAttribute.tss_bb_Разделитель</name>
+		<right>
+			<name>View</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.tss_bb_НастройкиДляТестирования</name>
+		<right>
+			<name>View</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>SessionParameter.tss_bb_РазделительИспользование</name>
+		<right>
+			<name>Get</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Set</name>
+			<value>false</value>
+		</right>
+	</object>
+</Rights>
